@@ -1,7 +1,7 @@
 README.TXT
 INTRO:
 Hello! And welcome to Position of the Sun Calculator!
-With this program, you can determine the position of the Sun relative to any location on all eight planets within the solar system as well as Pluto at any time and date.
+With this program you can determine the position of the Sun relative to any location on all eight planets within the solar system as well as Pluto at any time and date.
 STARTING PROGRAM:
 In order to run the program, execute the python script entitled "position_of_sun.py" found within the same folder as this readme document. (position_of_class.py is the class of functions called to run position_of_sun.py)
 
